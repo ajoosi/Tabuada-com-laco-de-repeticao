@@ -1,6 +1,6 @@
 #while True --Looping infinito
 # For c in range --Laço de repetição
-# if n < 0: --- Se o numero digitado for menor que zero (ou seja,NEGATIVO) pare o programa.
+# if n < 0: --- Se o numero digitado for menor que zero (NEGATIVO) pare o programa.
 
 while True:
     n = int(input('Quer ver a tabuada de qual valor?'))
